@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="colorAccent">#DD2877</color>
+
+    <color name="loginBtn">#612272</color>
+    <color name="pink">#DD2877</color>
+
+    <color name="colorGrayTextTitle">#3C3E4D</color>
+
+    <color name="black_alpha">#47000000</color>
+    <color name="nav_list_color">#343C50</color>
+    <color name="black_text">#393939</color>
+    <color name="black_light_text">#747474</color>
+    <color name="success_green">#388E3C</color>
+    <color name="error_red">#D50000</color>
+    <color name="info_blue">#3F51B5</color>
+    <color name="warning_orange">#FFA900</color>
+    <color name="open_text">#28DD76</color>
+
+    <color name="transparent">#00ffffff</color>
+
+
+</resources>

@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Direct App</string>
+
+    <string name="network_error">No internet connection</string>
+    <string name="unexpected_error">Unexpected error.</string>
+    <string name="unauthenticated_error">Unauthenticated error</string>
+    <string name="server_error">We\'re sorry that the server encountered an internal error
+        and could not complete your request. Please try again later.</string>
+    <string name="client_error">Error connecting to server Please try again later.</string>
+
+
+    <string name="request_report">Report request successfully sent</string>
+    <string name="cancel_msg">Are you sure?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="logout_msg">Logout successfully</string>
+    <string name="sure_logout_msg">Do you want to sign out ?</string>
+
+
+    <string name="kml_url">http://googlemaps.github.io/kml-samples/morekml/Polygons/Polygons.Google_Campus.kml</string>
+
+
+    <string name="no_data">No data</string>
+    <string name="success">Success</string>
+    <string name="sorry">Sorry</string>
+    <string name="country_name">Enter Country Name</string>
+    <string name="select_country">Select Country</string>
+    <string name="select_area">Select Area</string>
+    <string name="area_name">Enter Area Name</string>
+    <string name="help_location">Help me to find my location</string>
+    <string name="change_lang">Change Language</string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="forget_pass">I forget my password</string>
+    <string name="login_account">Sign in</string>
+    <string name="or">OR</string>
+    <string name="create_account">Create Account</string>
+    <string name="countinue">Continue</string>
+    <string name="sign_up_title">Create your account and track your \n order any time, any where</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="wrong_password">Password must be at lest 8 character </string>
+    <string name="wrong_email">please enter valid email</string>
+    <string name="wrong_phone">please enter valid phone number</string>
+    <string name="password_not_match">Password not match </string>
+    <string name="checkin">Check In</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="notification">Notification</string>
+    <string name="info">Info</string>
+    <string name="menu">Menu</string>
+    <string name="offers">Offers</string>
+    <string name="rating">Raring</string>
+    <string name="no_address">You dont have any address in your account \n start by creating your first address</string>
+
+
+    <!--menu Navigation-->
+    <string name="my_orders">My Orders</string>
+    <string name="my_reservations">My Reservations</string>
+    <string name="my_addresses">My Addresses</string>
+    <string name="favorites">Favorites</string>
+    <string name="messages">Messages</string>
+    <string name="feed_back">Feedback</string>
+    <string name="customer_service">Customer Service</string>
+
+    <string name="reserve_table">Reserve Table</string>
+    <string name="res_desc">Description</string>
+    <string name="more">Show more</string>
+    <string name="less">Show less</string>
+
+    <string name="service">Services</string>
+    <string name="amenities">Amenities</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout_account">Sign out</string>
+    <string name="my_points">My Points</string>
+
+    <string name="rating_hint">What do you think about us, ?</string>
+    <string name="give_rate">Give a rate</string>
+    <string name="Write_tip">Write tip</string>
+    <string name="verfication_title">We will send you a pin code to verify your \n phone number, please enter the pin code \n in the field and press continue</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="resendcode">Resend Code</string>
+    <string name="repassword">Confirm Password</string>
+    <string name="repassword_wrong">Password not matching </string>
+    <string name="msg_first_name">first name must be between 2 and 16</string>
+    <string name="msg_feedback">feedback message must be between 4 and 255 character</string>
+    <string name="msg_last_name">last name must be between 2 and 16</string>
+    <string name="create_pass">Create new password</string>
+    <string name="current_pass">Type your current password</string>
+    <string name="new_pass">Type your new password</string>
+    <string name="re_new_pass">Retype your new password</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="select">Select</string>
+
+    <string name="username">Username :</string>
+    <string name="edit">Edit</string>
+    <string name="setting">Setting</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="change_password">Change Password</string>
+    <string name="msg_user_name">user name must be between 8 and 10</string>
+    <string name="address_name">Address Name</string>
+    <string name="building_num">Building Number</string>
+    <string name="floor_num">Floor Number</string>
+    <string name="apartment_num">Apartment Number</string>
+    <string name="add_addresss">Add Address</string>
+    <string name="my_address">My Addresses</string>
+    <string name="address_info">Address Information</string>
+    <string name="add_address">Create new address</string>
+    <string name="title_activity_address_map">Map</string>
+    <string name="debug_msg_feedback">Write your feedback, problem, suggestion that may help us to imporve our service</string>
+    <string name="contact_out_team">Or you can contact our customer service team</string>
+    <string name="loading">Loading</string>
+    <string name="select_location">Add Selected Location</string>
+    <string name="find_account">Let\'s find your account, please enter your email</string>
+    <string name="send">Send</string>
+    <string name="retry">Retry</string>
+    <string name="menu_search">What are you looking for?</string>
+    <string name="check_category">Check These Categories</string>
+    <string name="change_country">Change Country</string>
+    <string name="location_ms">Direct requires the GPS location\n permission to find your location.</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="go_to_location">Go to location</string>
+    <string name="our_branch">Our Branches</string>
+    <string name="try_again">Try again</string>
+    <string name="find_restaurant_by_name">Find Restaurant by name</string>
+    <string name="you_must_login">You must sign in</string>
+    <string name="have_services">We have these services</string>
+    <string name="views">Views</string>
+    <string name="check_in">Check In</string>
+    <string name="review">Review</string>
+    <string name="open_now">Open Now</string>
+    <string name="closed">Closed</string>
+    <string name="delivery">Delivery</string>
+    <string name="food_pickup">Food Pickup</string>
+    <string name="reservation">Table Reservation</string>
+
+
+
+</resources>
